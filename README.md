@@ -41,7 +41,7 @@ The platform is designed to be **intuitive, offline-friendly, and mobile-accessi
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/rural-finance-management.git
+git clone https://github.com/ayushmanpani/rural-finance-management.git
 cd rural-finance-management
 
 # Install dependencies
